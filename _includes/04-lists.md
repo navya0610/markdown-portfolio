@@ -1,4 +1,2 @@
-<ol>
-  <li>Content writing</li>
-  <li>python</li>
-  </ol>
+*Content writing
+*python
