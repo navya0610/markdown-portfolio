@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+https://github.com/navya0610/markdown-portfolio/issues/1
