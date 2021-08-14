@@ -1,2 +1,2 @@
-*Content writing
-*python
+* Content writing
+* python
